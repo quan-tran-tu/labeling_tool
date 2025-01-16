@@ -1,2 +1,500 @@
-LJ004-0216.wav|male|vi-c|the most noticeable of the improvement introduced was a better regulation of dietary within the prison
-LJ004-0160.wav|male|vi-c|the uproar of something
+audio/LJ004-0216.wav|female|en| The most noticeable of the improvements introduced was a better regulation of dietaries within the prison.
+audio/LJ004-0160.wav|female|en| the uproar of oaths, complaints, and obscenity.
+audio/LJ008-0212.wav|female|en| Cries of comfortable room, excellent situation, beautiful prospect, splendid view resounded on every side.
+audio/LJ002-0236.wav|female|en| matters were rather better at the marshalsea.
+audio/LJ004-0022.wav|female|en| The executive, although harassed by internal commotion and foreign war, was not entirely callous to the crying need for amelioration in jails.
+audio/LJ010-0132.wav|female|en| As the executioner fastened the noose, he nodded to a friend he saw in the crowd.
+audio/LJ004-0234.wav|female|en| This change led to some discontent until it was found that the much greater boon of relief from irons accompanied it, and the reform was quietly accepted.
+audio/LJ007-0098.wav|female|en| The other inmates of the prison, of an exceptional character, and exempted from the regular discipline such as it was,
+audio/LJ004-0099.wav|female|en| Ventilators, hand and others were to be supplied.
+audio/LJ005-0106.wav|female|en| Jails, of which the old prison at Reading was a specimen, were still left intact.
+audio/LJ010-0209.wav|female|en| Louis and Amadeus among the captains, and Hercules, Neptune, and Mars among the lieutenants of the association.
+audio/LJ001-0041.wav|female|en| It must be said that it is in no way like the transition type of subiaco.
+audio/LJ011-0040.wav|female|en| I find in the Chaplain's Journal under date 1824, various entries relative to this prisoner.
+audio/LJ004-0114.wav|female|en| King's evidences were also to be lodged apart.
+audio/LJ004-0143.wav|female|en| so that the culprit, in addition to his sentence,
+audio/LJ004-0182.wav|female|en| As for the debtors, they had no allowance whatever, and were often in imminent danger of starvation.
+audio/LJ003-0015.wav|female|en| For this and other acts of misconduct, there was the discipline of the refractory ward, or strong room, on the debtor's side.
+audio/LJ004-0138.wav|female|en| One poor wretch who had slept next to the wall said he had been literally unable to move for the pressure.
+audio/LJ003-0239.wav|female|en| This imposition of fees left prisoners destitute on their discharge, without funds to support them in their first struggle to recommence life.
+audio/LJ008-0260.wav|female|en| One of the worst evils was the terrible and long-protracted uncertainty as to the result.
+audio/LJ010-0313.wav|female|en| the sum total amounting to some 170,000 pounds, with a declaration in his own handwriting to the following effect.
+audio/LJ010-0121.wav|female|en| that he was, to use Thistlewood's words, a contriver, instigator, and entrapper.
+audio/LJ001-0164.wav|female|en| which should be indications of a delicacy of material and manufacture, which would, of necessity, increase its cost.
+audio/LJ001-0042.wav|female|en| and though more Roman than that, yet scarcely more like the complete Roman type of the earliest printers of Rome.
+audio/LJ008-0007.wav|female|en| The decision to remove the scene of action to the immediate front of the jail itself
+audio/LJ011-0260.wav|female|en| It was, however, proved that Howard was in needy circumstances and that his proposals to Mr. Millay could only have originated in a desire to rob him.
+audio/LJ007-0108.wav|female|en| Dasent and Pilgrim were released in 10 days on making due submission.
+audio/LJ005-0250.wav|female|en| The prisoners were crowded together in the jail, contrary to the requirements of the four George IV.
+audio/LJ007-0048.wav|female|en| so subversive of meditation, so disturbing to the thoughts.
+audio/LJ005-0200.wav|female|en| Most of these small jails were still in existence and in much the same state eight years later.
+audio/LJ003-0036.wav|female|en| Authority was given to raise money on the Orphans Fund to the extent of £90,000.
+audio/LJ006-0257.wav|female|en| Hot meat, poultry, and fish were also forbidden.
+audio/LJ008-0215.wav|female|en| One by one, the huge uprights of black timber were fitted together.
+audio/LJ006-0096.wav|female|en| The only convenience for personal ablutions were the pumps in the yards and the far-off baths in the condemned or press yard.
+audio/LJ006-0114.wav|female|en| They bought their offices from one another and were thus considered to have a vested interest in them.
+audio/LJ011-0268.wav|female|en| when he was asked to meet a Mr. Heath in London with regard to the sale of certain lands at Bishop Stortford.
+audio/LJ004-0201.wav|female|en| At Elchester, the rule of employment had been carried further.
+audio/LJ001-0178.wav|female|en| The due relation of letter to pictures and other ornament was thoroughly understood by the old printers, so that...
+audio/LJ009-0125.wav|female|en| Could anyone, not disgusted with the religious ceremonials of Newgate, witness this scene without emotion?
+audio/LJ004-0117.wav|female|en| In an early report of the Prison Discipline Improvement Society,
+audio/LJ004-0107.wav|female|en| The most important jail act of that early period, however, was the 24 George III C. 54S4 in 1784.
+audio/LJ008-0277.wav|female|en| Convicted offenders might have good or bad luck. They might be arraigned when their particular crime was uncommon and were then nearly certain to escape.
+audio/LJ004-0026.wav|female|en| In 1814, a bill was brought in to insist upon the appointment of chaplains in jails, and when this had passed into law,
+audio/LJ011-0156.wav|female|en| While on a visit to Meckelsfield, he heard by chance of Miss Turner, and that she would inherit all her father's possessions.
+audio/LJ010-0193.wav|female|en| When brought to trial, he hardly realized his position.
+audio/LJ002-0292.wav|female|en| the master's side, the cabin's side, and the common's side. Payment of a fee of three shillings gained the debtor admission to the two first named.
+audio/LJ005-0028.wav|female|en| There should be no tea and sugar, no assemblage of female felons around the washing tub.
+audio/LJ007-0120.wav|female|en| some to the infirmary, many more to the governor's house.
+audio/LJ006-0011.wav|female|en| that inspectors should watch over the observance of the law. He saw no objection on the score of their probable interference with the local jurisdiction.
+audio/LJ011-0088.wav|female|en| The night previous to that fixed for his execution, he wrote several letters, one of them being to Edward Gibbon Wakefield, a fellow prisoner.
+audio/LJ007-0056.wav|female|en| leaden hearts and grinding the impressions off penny pieces, then pricking figures or words on them to give to their friends as memorials.
+audio/LJ009-0088.wav|female|en| ignominy sorrow sufferings wretchedness pangs
+audio/LJ003-0199.wav|female|en| and, until the day was actually fixed, spent the time in roistering, swearing, gambling, or playing at ball.
+audio/LJ006-0013.wav|female|en| Sir Frederick Rowe was of the same opinion as regards the appointment, but he would give the inspectors the power of acting as well as reporting.
+audio/LJ007-0193.wav|female|en| The measures of improvement introduced were mainly as follows.
+audio/LJ011-0197.wav|female|en| and presently ascertained that Wakefield had gone to the continent with his involuntary bride.
+audio/LJ011-0045.wav|female|en| The kindliness of the city authorities to Fauntleroy was not limited to the assignment of a separate place of durance.
+audio/LJ006-0042.wav|female|en| Relapse was rapid and inevitable, so that the latter state of the prison was worse than the first.
+audio/LJ010-0274.wav|female|en| much the same motives of seeking notoriety, seemed to have impelled Bean, who was perfectly sane, to his rash act.
+audio/LJ005-0137.wav|female|en| Four years later, the Prison Society reported
+audio/LJ007-0223.wav|female|en| The prison officials appear to be on the side of the inspectors, to the great dissatisfaction of the corporation, who claimed the full allegiance and support of its servants.
+audio/LJ008-0234.wav|female|en| Each wave seems trying to overleap the other as they are drawn onwards towards this outlet.
+audio/LJ003-0026.wav|female|en| The auditors were paid a shilling each for their services each time the poor box was opened. The steward was also remunerated for his trouble.
+audio/LJ011-0195.wav|female|en| The terror and dismay of her parents were soon intensified by the receipt of a letter from Wakefield at Carlisle announcing the marriage.
+audio/LJ003-0050.wav|female|en| 1. Those awaiting trial.
+audio/LJ004-0021.wav|female|en| The neglect of prison reform in those days was not to be visited upon the legislature.
+audio/LJ003-0298.wav|female|en| for giving every prisoner a sleeping cell to himself, an amount of enlightenment, which is hardly general among European nations at this time.
+audio/LJ005-0143.wav|female|en| The scenes of tumult and obscenity in these night rooms are said to have been beyond description. A prisoner in one nocturnal riot lost an eye.
+audio/LJ003-0169.wav|female|en| Prisoners who could afford it sometimes paid for four beds at the rate of 28 shillings and so secured the luxury of a private room.
+audio/LJ005-0299.wav|female|en| The whole question was again dealt with in Lord John Russell's bill for the reform of the municipal corporations, and with a more liberal election of town councilors.
+audio/LJ011-0185.wav|female|en| Filial affection rose superior to all scruples, and Miss Turner, having crossed the border, was married to Wakefield.
+audio/LJ010-0255.wav|female|en| This was in May 1842.
+audio/LJ007-0116.wav|female|en| A few others, who could not afford a payment of more than half a guinea, were permitted to monopolize a part of the prison infirmary.
+audio/LJ005-0245.wav|female|en| This committee animadverted strongly upon the system in force at the Metropolitan Jails, and more especially upon the condition of Newgate.
+audio/LJ006-0260.wav|female|en| From the same source came the two or three strong files which the inspectors found in one ward.
+audio/LJ001-0175.wav|female|en| Simple as this proposition is, it is necessary to be stated
+audio/LJ010-0028.wav|female|en| The causes also continued much the same. Passion, revenge, cupidity, sudden ebullitions of homicidal rage.
+audio/LJ003-0139.wav|female|en| and I was obliged afterwards to let him have five shillings to pay his share.
+audio/LJ002-0161.wav|female|en| These, surely I thought, says Mr. Neald, were bad enough, but it was not so, end quote.
+audio/LJ002-0183.wav|female|en| whilst Ludgate, the Giltzper Street, and Borough Comters also received them.
+audio/LJ004-0170.wav|female|en| The only ventilation of this pit, this dark, cheerless, damp, unwholesome cavern, a dungeon in its worst sense...
+audio/LJ004-0205.wav|female|en| Industrial labor had also been introduced with satisfactory results.
+audio/LJ008-0235.wav|female|en| Every link in that great human chain is shaken. Along the whole lengthened line has the motion jarred, and each in turn sees...
+audio/LJ003-0223.wav|female|en| The roof of the female prison, says the grand jury in their presentment in 1813, let in the rain.
+audio/LJ002-0103.wav|female|en| The felon's side has a similar accommodation, and this mode of introducing the beverage is adopted because no publican as such...
+audio/LJ011-0217.wav|female|en| Mr. Justice Bailey, in summing up,
+audio/LJ008-0145.wav|female|en| They were accused by a Confederate who, goaded by conscience, had turned approver of the murder of a Mr. Steele.
+audio/LJ003-0200.wav|female|en| Visitors were permitted access to them without stint.
+audio/LJ002-0305.wav|female|en| And thus, when the debtor's debt had been actually paid, or when he had abandoned his property to the creditors, and almost destitute,
+audio/LJ003-0326.wav|female|en| so that the various classes might be seated separately and so as not to see each other.
+audio/LJ004-0076.wav|female|en| Disease, cold, famine, nakedness, and contagious and polluted air are not lawful punishments in the hands of the civil magistrates.
+audio/LJ005-0260.wav|female|en| a theory which did not become a practical fact for 40 more years.
+audio/LJ002-0324.wav|female|en| or the keeper made them a special grant of six pence per diem out of the common stock,
+audio/LJ009-0280.wav|female|en| Again, the wretched creature succeeded in obtaining foothold, but this time on the left side of the drop.
+audio/LJ002-0217.wav|female|en| the warden of the fleet at the commencement of the 18th century, are too well known to need more than a passing reference.
+audio/LJ004-0074.wav|female|en| No judge ever condemned a man to be half perished with cold by day, or half suffocated with heat by night.
+audio/LJ006-0110.wav|female|en| he had power where his exactions were resisted of making the ward most uncomfortable for the defaulter.
+audio/LJ012-0001.wav|female|en| The Chronicles of Newgate, Volume 2, by Arthur Griffiths. Section 15, Newgate Notorieties, Part 3.
+audio/LJ010-0017.wav|female|en| eluding the keenest vigilance, and carried out with reckless daring.
+audio/LJ004-0046.wav|female|en| An active committee was appointed, comprising many names already well known, some of them destined to become famous in the annals of philanthropy.
+audio/LJ006-0175.wav|female|en| In his administration of discipline, he was quite uncertain.
+audio/LJ008-0172.wav|female|en| In another part, seven persons met their death by suffocation.
+audio/LJ003-0002.wav|female|en| The squalor and uncleanness of the debtor's side was intensified by constant overcrowding.
+audio/LJ009-0113.wav|female|en| whistles merrily, and points upwards with madness in his look.
+audio/LJ012-0018.wav|female|en| one of the most notorious and for a time most successful practitioners in this illicit trade, passed through Newgate in 1831.
+audio/LJ003-0044.wav|female|en| The reforms which were to be attempted in that prison
+audio/LJ003-0023.wav|female|en| All the allowances of food passed through his hands. He had the control of the poor box for chance charities.
+audio/LJ009-0265.wav|female|en| Even now, his sufferings were not at an end.
+audio/LJ008-0315.wav|female|en| So and so, I am sorry to tell you that it is all against you, or...
+audio/LJ004-0198.wav|female|en| There was, besides, a mill for grinding corn, somewhat similar to a turn spit, which prisoners turned by walking in rows.
+audio/LJ006-0247.wav|female|en| The prisoner who used the knife was secured, but it was the wardsmen and not the officers to whom the report was made, and no official inquiry or punishment followed.
+audio/LJ002-0200.wav|female|en| The marshal was supposed to be resident either within the prison or the rules.
+audio/LJ009-0042.wav|female|en| Upon the occasion which I am describing, they were four in number, and here I will continue the narrative in Mr. Wakefield's own words.
+audio/LJ007-0124.wav|female|en| The infirmary at this particular period epitomized the condition of the jail at large.
+audio/LJ008-0132.wav|female|en| Over the handkerchief around his brows, he placed a white cap, the new hat being on top of all.
+audio/LJ003-0331.wav|female|en| The privileges of the master's side also disappeared. Fees were nominally abolished, and garnish was scotched, although not yet killed outright.
+audio/LJ008-0257.wav|female|en| In thus describing the Saturnalia before the gallows, I have been drawn on, somewhat beyond the period with which I am at present dealing.
+audio/LJ009-0188.wav|female|en| One was attached to Hicks Hall, the Clerkenwell Sessions House, built out of monies provided by Sir Baptist Hicks, a wealthy alderman of the reign of James I.
+audio/LJ004-0009.wav|female|en| as indefatigable and self-sacrificing, found by personal visitation that the condition of jails throughout the kingdom was,
+audio/LJ006-0254.wav|female|en| Other regulations laid down by the jail acts were still defied. One of these was that prisoners should be restricted to the jail allowance of food.
+audio/LJ009-0198.wav|female|en| and her body publicly exhibited in a place built for the purpose in the Old Bailey.
+audio/LJ005-0133.wav|female|en| the provision of separate sleeping cells was still quite inadequate. For instance,
+audio/LJ005-0266.wav|female|en| that food and fuel should be issued in kind, and never provided by the prisoners themselves out of monies granted them.
+audio/LJ010-0270.wav|female|en| exactly tallied with that of the deformed person wanted for the assault on the queen.
+audio/LJ010-0090.wav|female|en| Hand grenades were to be thrown into the dining room, and during the noise and confusion, the assassination of the ministers was to be completed.
+audio/LJ007-0228.wav|female|en| In their tenth report,
+audio/LJ008-0248.wav|female|en| Another fight followed the score which had already taken place. This time, two women were the combatants.
+audio/LJ005-0156.wav|female|en| In others, meat, soup, gruel, beer were given.
+audio/LJ009-0135.wav|female|en| So many applications for admission were made to the sheriffs.
+audio/LJ001-0165.wav|female|en| one fruitful source of badness in paper.
+audio/LJ010-0194.wav|female|en| but gazed with complacency around the crowded court, and eagerly inquired what persons of distinction were present.
+audio/LJ009-0223.wav|female|en| but it was actually tried in two provincial towns, Leicester and Durham.
+audio/LJ002-0238.wav|female|en| was used for debtors arrested for the lowest sums within 12 miles of the Palace of Whitehall.
+audio/LJ002-0089.wav|female|en| 8. The female felons were deprived of part of the space which the architect had intended for them.
+audio/LJ011-0213.wav|female|en| married the said Ellen Turner.
+audio/LJ011-0108.wav|female|en| I wish after this day to have communication with nobody. Let me take leave of my wife and family and friends. I have already suffered an execution.
+audio/LJ004-0162.wav|female|en| It was a scene of infernal passions and distresses, says Buxton, which few have imagination sufficient to picture.
+audio/LJ009-0099.wav|female|en| Meanwhile, the clergyman, still bent into the form of a sleeping dog,
+audio/LJ007-0044.wav|female|en| The latter, lighthearted and reckless, conducted themselves in the most unseemly fashion, and with as much indifference as the inmates of the other parts of the prison.
+audio/LJ010-0020.wav|female|en| The extraordinary extension of all commercial operations led to many entirely novel and often gigantic financial frauds.
+audio/LJ006-0171.wav|female|en| He was satisfied to let matters run on as in the old times, he said in his own justification. With him, what was, was right.
+audio/LJ002-0228.wav|female|en| The Committee on Jails reported that, quote, although the house of the warden looked into the court,
+audio/LJ006-0043.wav|female|en| The disgraceful overcrowding had been partially ended, but the same evils of indiscriminate association were still present. There was the old neglect of decency.
+audio/LJ005-0246.wav|female|en| where prisoners before and after trial are under no efficient superintendence, and where there was no restraint or attempt at restraint.
+audio/LJ005-0070.wav|female|en| These are principles fully recognized nowadays, and it may fairly be conceded that the prison discipline society's ideal...
+audio/LJ003-0134.wav|female|en| One day, he was too ill to come down and meet her.
+audio/LJ005-0126.wav|female|en| Religious worship became more generally the rule, chaplains were appointed, and chapels provided for them, surgeons and hospitals also.
+audio/LJ004-0025.wav|female|en| and two other acts more peremptory and precise followed on the same subject in succeeding years.
+audio/LJ011-0293.wav|female|en| It was a cell, five feet by three, within another, the intervening being filled with rammed earth to deaden the sound.
+audio/LJ006-0068.wav|female|en| We have reason to fear that poverty, ragged clothes, and an inability to pay the ward dues elsewhere exacted for better accommodation
+audio/LJ001-0127.wav|female|en| The modern letters are narrowed by a third or thereabout. But while this gain of space very much hampers the possibility of beauty of design,
+audio/LJ005-0022.wav|female|en| While fully admitting the good intentions of the society, he condemned their ultra-humanitarianism as misplaced.
+audio/LJ001-0092.wav|female|en| The Chiswick Press in 1844 revived Caslon's Founts, printing for Messrs. Longman, The Diary of Lady Willoughby.
+audio/LJ001-0030.wav|female|en| A very few years saw the birth of Roman character not only in Italy, but in Germany and France.
+audio/LJ006-0107.wav|female|en| He sold tea, coffee, sugar, tobacco, although prohibited, and extra beer.
+audio/LJ012-0010.wav|female|en| both having been recognized by the clergyman who had performed the ceremony, and the assault had been committed to secure the money.
+audio/LJ011-0138.wav|female|en| It passed the commons, but opposition was again encountered in the Lourdes.
+audio/LJ002-0122.wav|female|en| The number of arrests actually made was 114,300 for the kingdom and 7,020 for Middlesex.
+audio/LJ006-0133.wav|female|en| The turnkeys complained bitterly that these old prisoners had more power than they themselves.
+audio/LJ004-0037.wav|female|en| Yet, the borough jails were destined to survive many years and to exhibit for a long time to come all the worst features of jail mismanagement.
+audio/LJ004-0013.wav|female|en| Some prisons that had been ameliorated under the persuasive influence of his kind advice were relapsing into their former horrid state of privation.
+audio/LJ011-0126.wav|female|en| in conjunction with two others, one of whom was a clerk in the Custom House,
+audio/LJ008-0084.wav|female|en| The flames presently burned the halter. The body fell a few inches and hung then by the iron chain.
+audio/LJ011-0273.wav|female|en| He was about to descend the stairs when three persons, one of them the young sailor,
+audio/LJ007-0027.wav|female|en| Bad as were the various parts of the jail already dealt with,
+audio/LJ009-0126.wav|female|en| hardly anyone.
+audio/LJ004-0077.wav|female|en| nor has he a right to poison or starve his fellow creatures.
+audio/LJ009-0220.wav|female|en| the bodies of all prisoners convicted of murder should either be hung in chains or buried under the gallows on which they had been executed
+audio/LJ002-0266.wav|female|en| His bequest, which was charged upon his manor at Goring Oxen, and hence called the Oxford Charity,
+audio/LJ005-0003.wav|female|en| Persons committed to a metropolitan jail at that time were taken in gangs, men and women handcuffed together, or linked onto a long chain.
+audio/LJ006-0163.wav|female|en| and that he was constantly engaged attending sessions and going with drafts to the hulks.
+audio/LJ006-0263.wav|female|en| and capable of becoming most dangerous weapons in the hands of desperate and determined men.
+audio/LJ005-0038.wav|female|en| to suggest beneficial regulations and circulate tracts demonstrating the advantages of classification
+audio/LJ007-0009.wav|female|en| They had tried, moreover.
+audio/LJ010-0291.wav|female|en| Pate was found guilty and sentenced to seven years' transportation. The judge, Baron Alderson, abstaining from inflicting the penalty of whipping,
+audio/LJ002-0264.wav|female|en| Legacies had also been left to free a certain number of debtors, notably that of 100 pounds per annum.
+audio/LJ004-0028.wav|female|en| Various acts were also passed to consolidate and amend previous jail acts.
+audio/LJ004-0228.wav|female|en| In 1818, prisoners awaiting trial in Newgate were at length relieved from this illegal infliction.
+audio/LJ011-0289.wav|female|en| and, creeping out into the garden at the back, climbed the wall and got into the street.
+audio/LJ010-0162.wav|female|en| The cowardly crime was probably encouraged by the fearless and confiding manner in which the queen
+audio/LJ009-0152.wav|female|en| The crowd outside Newgate on the day of execution has already been described, but there was also a select gathering of distinguished visitors within the jail.
+audio/LJ009-0203.wav|female|en| it was determined that a public exhibition should be made of the body through the neighborhood which had been the scene of the monster's crimes.
+audio/LJ002-0192.wav|female|en| Another 200, more or less, took advantage of the rules and lived outside within a circumference of two miles and a half.
+audio/LJ011-0093.wav|female|en| This file he had managed to retain in his possession, in spite of the frequent searches to which he was subjected in Newgate.
+audio/LJ009-0268.wav|female|en| Through the improper adjustment of the rope, his sufferings were prolonged for five minutes.
+audio/LJ005-0171.wav|female|en| we shall find but few which have not in one or other of these ways removed the grievance of which such just complaint is made
+audio/LJ003-0121.wav|female|en| but all punishments might readily be commuted into a fine to be spent in gin for judge and jury.
+audio/LJ008-0291.wav|female|en| The time thus spent varied considerably.
+audio/LJ003-0132.wav|female|en| whose language and manners, whose female associates of the most abandoned description, and the scenes consequent with such lost wretches,
+audio/LJ010-0001.wav|female|en| The Chronicles of Newgate, Volume 2, by Arthur Griffiths. Section 13, Newgate Notorieties, Part 1.
+audio/LJ003-0286.wav|female|en| The report of the Committee of the House of Commons painted so black a picture of Newgate, as then conducted, that the Corporation were roused in very shame.
+audio/LJ005-0293.wav|female|en| In these places, the prisoners are often without a proper supply of air and light. Frequently, the jails are mere dungeons under the town hall.
+audio/LJ003-0120.wav|female|en| The culprit was then compelled to carry the chair about with him.
+audio/LJ006-0095.wav|female|en| the rugs used were never washed an order existed that the bedding should be taken into the yards to be aired but it was not very punctually obeyed
+audio/LJ003-0218.wav|female|en| The chapel was filled with a curious but callous congregation, who came to stare at the miserable people thus publicly exposed.
+audio/LJ009-0297.wav|female|en| There is still extant a curious petition presented to the Treasury by Ralph Griffith Esquire, High Sheriff of Flintshire.
+audio/LJ012-0025.wav|female|en| at which he realized 150 pounds within a couple of years.
+audio/LJ002-0289.wav|female|en| The latter raised 18 pence among them to pay for a truss of straw for the poor woman to lie on.
+audio/LJ003-0140.wav|female|en| Otherwise, he would have been stripped of his clothes. End quote.
+audio/LJ003-0338.wav|female|en| end quote, it would cover some 30 acres and cost a great deal more than the city, with the example of White Cross Street Prison before it,
+audio/LJ001-0002.wav|female|en| in being comparatively modern.
+audio/LJ005-0116.wav|female|en| but an empty regulation which also disposed could defy.
+audio/LJ005-0082.wav|female|en| unless such ability to work should cease by reason of sickness, infirmity, the want of sufficient work, or from any other cause.
+audio/LJ006-0047.wav|female|en| The prison had become more or less a place of detention only, harboring mainly those awaiting trial.
+audio/LJ004-0225.wav|female|en| The practice was falling into abeyance, and the prisoners seldom required private assistance to eke out their meals.
+audio/LJ001-0051.wav|female|en| and paying great attention to the press work or actual process of printing
+audio/LJ002-0150.wav|female|en| Costs were the gallons of sack to the penny worth of debt.
+audio/LJ004-0189.wav|female|en| The great principles of classification, cleanliness and employment were closely observed.
+audio/LJ005-0282.wav|female|en| The comparatively innocent are seduced. The unwary are entrapped.
+audio/LJ002-0030.wav|female|en| Full details of the arrangements are to be found in Mr. Neald's State of Prisons in England, Scotland, and Wales, published in 1812.
+audio/LJ008-0051.wav|female|en| says, the scaffold on which these miserable people suffered is a temporary machine which was drawn out of the yard of the Sessions house by horses.
+audio/LJ001-0149.wav|female|en| From the time when books first took their present shape till the end of the 16th century, or indeed later,
+audio/LJ006-0009.wav|female|en| backed up by the evidence of several influential witnesses.
+audio/LJ005-0131.wav|female|en| In many places, too, where the prisoners earned money by their work, they were granted a portion of it for their own use after proper deduction for maintenance.
+audio/LJ011-0265.wav|female|en| This Mr. Canning had left his widow a life interest in 2,000 pounds so long as she remained unmarried.
+audio/LJ011-0069.wav|female|en| and that after hanging for the regulated time, he was taken down and easily restored to consciousness.
+audio/LJ002-0083.wav|female|en| The ground floor cells were nine feet by six.
+audio/LJ007-0054.wav|female|en| There were disputes and quarrels constantly among these doomed men. It was a word and blow, an argument clenched always with a fight.
+audio/LJ003-0275.wav|female|en| These malpractices were fostered by the absence of all supervision and the generally unbroken idleness.
+audio/LJ009-0128.wav|female|en| I have been present at the scene not less than twenty times, and have invariably observed
+audio/LJ008-0100.wav|female|en| The yeoman was, however, undersold by his wife, Rosie Emma.
+audio/LJ010-0128.wav|female|en| They, with brunt and tid, scorned the ordinary's ministrations.
+audio/LJ011-0046.wav|female|en| As I have already said, they took the chaplain seriously to task for the bad taste shown in the condemned sermon preached before Fauntleroy.
+audio/LJ007-0167.wav|female|en| framing a terrible indictment against those responsible for the condition of Newgate. Their words deserve to be quoted in full.
+audio/LJ008-0232.wav|female|en| a sound as if the ocean had suddenly broken through some ancient boundary, against which its ever-restless billows had for ages battered.
+audio/LJ003-0145.wav|female|en| or about a foot and a half laterally. These fees were in reality a substantial contribution towards the expenses of the jail.
+audio/LJ010-0229.wav|female|en| Within a couple of years, a second attempt to assassinate the Queen was perpetrated in nearly the same spot by a man named John Francis.
+audio/LJ006-0165.wav|female|en| Sometimes he looked at his bolts and bars, but he never examined the cupboards, coal boxes, or other possible hiding places for cards.
+audio/LJ006-0083.wav|female|en| so great is the authority exercised by him.
+audio/LJ004-0089.wav|female|en| and to pay overseers or instructors out of the county rates.
+audio/LJ006-0202.wav|female|en| The news vendor was also a tobacconist.
+audio/LJ004-0043.wav|female|en| A king's son, the Duke of Gloucester, was the patron. Among the vice presidents were many great peers of the realm.
+audio/LJ007-0158.wav|female|en| or any kind of moral improvement was impossible. The prisoner's career was inevitably downward till he struck the lowest depths.
+audio/LJ004-0055.wav|female|en| He personally visited several English jails and pointed his observations by drawing forcible contrasts between the good and bad.
+audio/LJ009-0241.wav|female|en| They were taken back to jail and were again brought out in the afternoon, by which time fresh and stronger ropes had been procured.
+audio/LJ010-0003.wav|female|en| I propose now to continue the subject and to devote a couple of chapters to criminal occurrences of a more recent date.
+audio/LJ006-0062.wav|female|en| In another part, there were men charged with and convicted of unnatural offenses, shut up with lads of tender years.
+audio/LJ006-0106.wav|female|en| Too much was left to the wardsman. It was he who could issue small luxuries.
+audio/LJ002-0252.wav|female|en| The inmates, who euphemistically styled themselves collegians,
+audio/LJ008-0252.wav|female|en| Another deep roar, louder than any which had preceded it, broke from the multitude.
+audio/LJ005-0189.wav|female|en| of vice and misery, debasing all who are confined within their walls, and disseminating through their respective communities
+audio/LJ006-0097.wav|female|en| Water might not be taken into the ward for washing purposes.
+audio/LJ011-0075.wav|female|en| One was that of Captain Montgomery, who assumed the aliases of Colonel Wallace and Colonel Morgan.
+audio/LJ006-0182.wav|female|en| under the reckless contempt for regulations
+audio/LJ004-0118.wav|female|en| published some six and thirty years after the promulgation of this act, the flagrant and persistent violations of it and others
+audio/LJ006-0242.wav|female|en| Watkins case referred to above is made the subject of another and a special report from the surgeon.
+audio/LJ011-0054.wav|female|en| A very curious and, in its way, amusing circumstance in connection with this case was the offer of a certain Italian.
+audio/LJ009-0209.wav|female|en| which was dressed in blue trousers and a blue and white striped waistcoat, but without a coat, as when found in the cell.
+audio/LJ002-0023.wav|female|en| On the female side, matters were much worse.
+audio/LJ006-0141.wav|female|en| The female wardswomen were also given to intemperance.
+audio/LJ001-0086.wav|female|en| are dazzling and unpleasant to the eye, owing to the clumsy thickening and vulgar thinning of the lines.
+audio/LJ005-0227.wav|female|en| It was enacted that the Court of Aldermen should make rules for the government of the prison, and that these should be posted publicly within the walls.
+audio/LJ007-0178.wav|female|en| And when the first municipal authority of our land will be no longer subjected to the reproach of fostering an institution which outrages the rights and feelings of humanity,
+audio/LJ007-0137.wav|female|en| More attention to ventilation, which was altogether neglected and inadequate, would have secured a better atmosphere for the unhappy inmates.
+audio/LJ007-0096.wav|female|en| It was high time that the unsatisfactory state of the law as regards the treatment of criminal lunatics should be remedied.
+audio/LJ005-0255.wav|female|en| The committee was also to report upon the manner in which sentences were carried out and to recommend any alterations necessary in the rules.
+audio/LJ001-0025.wav|female|en| imitates a much freer hand, simpler, rounder and less spiky, and therefore far pleasanter and easier to read.
+audio/LJ012-0023.wav|female|en| He was taken up when still in his teens for stealing a pocketbook, and was sentenced to transportation, but did not get beyond the hulks at Chatham.
+audio/LJ005-0210.wav|female|en| at Walsall in Staffordshire.
+audio/LJ006-0022.wav|female|en| At that time, the mild and intelligent prison discipline in force in Pennsylvania, the legacy of the old Quaker immigrants,
+audio/LJ004-0240.wav|female|en| he left Newgate utterly corrupted and, after lapsing into crime, soon returned with a very different character.
+audio/LJ005-0013.wav|female|en| One smug alderman, a member of the House of Commons, sneered at the ultra-philanthropy of the champions of prison improvement.
+audio/LJ006-0200.wav|female|en| the newsman had free access to the prison he passed in unsearched and unexamined and unaccompanied by an officer
+audio/LJ010-0297.wav|female|en| but there were other notorious cases of forgery.
+audio/LJ011-0105.wav|female|en| His defense was that the forged acceptances would have been met on coming to maturity, and that he had no real desire to defraud.
+audio/LJ002-0091.wav|female|en| and what remained was divided into a master's and a common side for female felons.
+audio/LJ002-0024.wav|female|en| The apartments set apart for them, being built to accommodate 60 persons, now contain about 120.
+audio/LJ010-0004.wav|female|en| only premising that as accounts become more voluminous i shall be compelled to deal with fewer cases
+audio/LJ002-0239.wav|female|en| Also, for prisoners committed by the Admiralty Court.
+audio/LJ004-0145.wav|female|en| At Guildford Prison, which Mr. Buxton also visited in 1818,
+audio/LJ009-0156.wav|female|en| with a view, as he himself said, to his professional studies.
+audio/LJ011-0142.wav|female|en| The question was whether the government would dare to take their lives at the bidding of the House of Lords.
+audio/LJ002-0070.wav|female|en| The state side was the part stolen from the female felon's side.
+audio/LJ005-0290.wav|female|en| Instances rarely occur in which the borough jails admit of any proper classification of the prisoners.
+audio/LJ002-0254.wav|female|en| and fines imposed for conduct disapproved of by the college.
+audio/LJ006-0014.wav|female|en| They should be persons, he thought, selected from the highest class. The duty was most important.
+audio/LJ002-0119.wav|female|en| In that period, upwards of 200,000 writs
+audio/LJ001-0048.wav|female|en| His letter is admirably clear and regular, but at least as beautiful as any other Roman type.
+audio/LJ005-0225.wav|female|en| In 1827, the Society was compelled to report that no material change had taken place in Newgate since the passing of the prison laws.
+audio/LJ003-0166.wav|female|en| Association at one time forbidden by custom, but which greed and rapacity long made the rule.
+audio/LJ008-0117.wav|female|en| you have tied me very tight, upon which Dr. Ford ordered him to slacken the cord, which he did, but not without muttering.
+audio/LJ010-0262.wav|female|en| charged him with the offense.
+audio/LJ011-0191.wav|female|en| The strangely married couple thereupon pressed on to Dover and crossed over to Calais.
+audio/LJ009-0020.wav|female|en| previous to the execution of Henry Fauntleroy, for uttering a forged security.
+audio/LJ011-0251.wav|female|en| Millet protested, and then Howard, under the influence of ungovernable rage, as it seemed, jumped up...
+audio/LJ005-0123.wav|female|en| With a few of the more important city or borough prisons, these acts more especially applied.
+audio/LJ008-0102.wav|female|en| A little further off, says Mr. Smith, was a laugh of a fellow past three score years and ten.
+audio/LJ004-0250.wav|female|en| it is obvious that reformation must be materially impeded, and in some cases utterly defeated, when the prisoners are defectively classed,
+audio/LJ008-0005.wav|female|en| The terrible spectacle was as demoralizing to the public, for whose admonition it was intended,
+audio/LJ007-0230.wav|female|en| Newgate, Gildersperson Compter, and the City Bridewell.
+audio/LJ001-0112.wav|female|en| instead of ending in the sharp and clear stroke of Jensen's letters.
+audio/LJ003-0213.wav|female|en| Convicted murderers were kept continuously in the cells on bread and water.
+audio/LJ009-0034.wav|female|en| The sheriffs were in one gallery.
+audio/LJ002-0080.wav|female|en| The long, narrow yard still remained as we saw it in Jacobite times.
+audio/LJ002-0006.wav|female|en| but it was almost always in excess of the accommodation available. And there were times when the place was full to overflowing.
+audio/LJ002-0272.wav|female|en| on the opening of White Cross Prison for Debtors in 1815.
+audio/LJ012-0012.wav|female|en| all three men were committed for trial, although Edwards wished to exculpate the others as having only acted under his order.
+audio/LJ008-0006.wav|female|en| as the exposure was brutal and cruel towards the principal actors.
+audio/LJ009-0211.wav|female|en| and on the right, the ripping chisel with which the murders had been committed, were exposed to view.
+audio/LJ008-0304.wav|female|en| to utter imprecations against the recorder, the secretary of state, the council, and the king.
+audio/LJ008-0116.wav|female|en| and tied the cord with so little feeling that the governor, Wall, who had not given the wretch his accustomed fee, observed,
+audio/LJ003-0063.wav|female|en| but when the ward was obliged to accommodate double the ordinary number, as was frequently the case,
+audio/LJ009-0112.wav|female|en| the burglar muttering curses and savage expressions of defiance, whilst the poor sheep-stealer shakes hands with the turnkeys.
+audio/LJ007-0011.wav|female|en| But it was already plain that they constituted an independent authority within the jails. They were frequently in conflict with the chaplain.
+audio/LJ008-0204.wav|female|en| One well-dressed woman fell out of a first-floor window onto the shoulders of the crowd below, but neither she nor anyone else was greatly hurt.
+audio/LJ004-0188.wav|female|en| and which even fulfilled many of the exacting requirements of modern days.
+audio/LJ008-0177.wav|female|en| The catastrophe exceeded the worst anticipations. Nearly 100 dead and dying lay about. And after all had been removed,
+audio/LJ009-0041.wav|female|en| The occupants of this terrible black pew were the last always to enter the chapel.
+audio/LJ004-0146.wav|female|en| There was no infirmary, no chapel, no work, no classification.
+audio/LJ004-0036.wav|female|en| It was hoped that their rulers would hire accommodation in the county prisons, and that the inferior establishments would in course of time disappear.
+audio/LJ010-0259.wav|female|en| a deformed lad among the crowd was seen to present a pistol at her majesty's carriage
+audio/LJ007-0081.wav|female|en| whose proper place was the asylum.
+audio/LJ008-0209.wav|female|en| Soon after midnight on the Sunday night, for by this time the present practice of executing on Monday morning had been pretty generally introduced,
+audio/LJ004-0130.wav|female|en| incommodious, as has been stated, insecure, unhealthy, and unprovided with the printed or written regulations required by law.
+audio/LJ008-0074.wav|female|en| that of Phoebe Harris, who in 1788 was barbarously executed and burnt before Newgate for coining.
+audio/LJ005-0235.wav|female|en| Last and worst of all, the arrangements for keeping the condemned prisoners between sentence and execution were more than unsatisfactory.
+audio/LJ007-0233.wav|female|en| It consists of several circular perforations, about two inches in diameter.
+audio/LJ010-0073.wav|female|en| he found himself rich in a small landed property, which he presently sold to a man who became bankrupt before he had paid over the purchase money.
+audio/LJ002-0067.wav|female|en| but really kept for the few who had funds sufficient to gain them admission to these more comfortable quarters.
+audio/LJ004-0134.wav|female|en| The debtors were crowded almost inconceivably. In a space 20 feet long by six wide,
+audio/LJ003-0138.wav|female|en| Though they could not force him to gamble, he was compelled to drink.
+audio/LJ004-0095.wav|female|en| is found to be owing to want of cleanliness and fresh air in the several jails,
+audio/LJ005-0034.wav|female|en| Undeterred by these sarcasms and misrepresentations,
+audio/LJ008-0039.wav|female|en| By practice, the art is much improved, and there is no part of the world in which villains are hanged in so neat a manner and with so little ceremony.
+audio/LJ010-0187.wav|female|en| He was taken into custody and removed first to a police cell, thence committed to Newgate, after he had been examined before the Privy Council.
+audio/LJ009-0002.wav|female|en| It is satisfactory to be able to record that some consideration was shown the capital convict actually awaiting execution.
+audio/LJ003-0219.wav|female|en| Well might Mr. Bennett write that the condition of the condemned side was the most prominent of the manyfold evils in the present system of Newgate.
+audio/LJ010-0206.wav|female|en| The officers of the society were to be known only by factitious names.
+audio/LJ010-0188.wav|female|en| Oxford expressed little anxiety or concern.
+audio/LJ007-0160.wav|female|en| the employment of those means and agents by which the lowest passions and the most vulgar propensities of man are perpetually kept in the highest state of excitement.
+audio/LJ002-0036.wav|female|en| 1. The male debtor's side consisted of a yard 49 feet by 31.
+audio/LJ003-0257.wav|female|en| Searches were made, certainly, but they were too often superficial, or they might be evaded by a trifling bribe.
+audio/LJ004-0091.wav|female|en| in distinct rooms on pain of forfeiting his office and treble damages to the party aggrieved.
+audio/LJ006-0293.wav|female|en| and the men could also at any time go for tea, coffee, and sugar to Mrs. Brown's shop, which was inside the female gate.
+audio/LJ002-0285.wav|female|en| and was so unfit to sleep on that it had not been used for many years, so that the men and women associated together indiscriminately.
+audio/LJ005-0253.wav|female|en| to inquire into and report upon the several jails and houses of correction in the counties, cities, and corporate towns within England and Wales.
+audio/LJ005-0035.wav|female|en| the society pursued its laudable undertaking with remarkable energy and great singleness of purpose.
+audio/LJ011-0124.wav|female|en| He also forged dividend receipts and got the dividends. He was only 6 and 20 when he was hanged.
+audio/LJ003-0016.wav|female|en| Bad cases were removed to a cell on the felon's side, and here they were locked in solitary confinement for three days at a time.
+audio/LJ007-0036.wav|female|en| One man declared that the language of the condemned rooms was disgusting, that he was dying a death every day and being compelled to associate with such characters.
+audio/LJ001-0013.wav|female|en| than in the same operations with ugly ones.
+audio/LJ010-0142.wav|female|en| Be this as it may, the weapon used was only an ordinary axe, which rather indicates that force, not skill, was employed.
+audio/LJ010-0173.wav|female|en| where he waited till 4 p.m., the time at which the queen and prince consort usually took an afternoon drive.
+audio/LJ001-0117.wav|female|en| which title can only be claimed by artistic practice, whether the art in it be conscious or unconscious.
+audio/LJ008-0181.wav|female|en| He had his pockets filled with bread and cheese, and it was generally supposed that he had come a long distance to see the fatal show.
+audio/LJ010-0214.wav|female|en| One expressed pleasure that Oxford improved so much in speaking, and declared that his, Oxford's, speech the last time was beautiful.
+audio/LJ006-0201.wav|female|en| went at once to his customers, who bought their paper and paid for it themselves.
+audio/LJ002-0275.wav|female|en| At one time, the Ludgate debtors, accompanied by the keeper,
+audio/LJ011-0102.wav|female|en| He had gone on board in his Quaker dress, but when captured was found in a light green frock.
+audio/LJ011-0104.wav|female|en| Hunton was put upon his trial at the Old Bailey, and in due course sentenced to death.
+audio/LJ002-0072.wav|female|en| The inmates were privileged either by antecedents or the fortunate possession of sufficient funds to pay the charges of the place.
+audio/LJ006-0217.wav|female|en| There were more varied, and at times, especially when beer had circulated freely, more uproarious diversions.
+audio/LJ003-0003.wav|female|en| Prisoners were committed to it quite without reference to its capacity.
+audio/LJ002-0333.wav|female|en| A severe winter set in, the new stock had not been supplied by the contractors, and the poor debtors perished of cold.
+audio/LJ002-0299.wav|female|en| and gave the garnish for the common side at that sum, which is five shillings more than Mr. Neild says was extorted on the common side.
+audio/LJ002-0156.wav|female|en| Thomas Dobson on 22nd August 1799 for one shilling, with costs of eight shillings ten pence.
+audio/LJ008-0056.wav|female|en| The Dublin Engine of Death, as the gallows are styled in the account from which the following description is taken, consisted of an iron bar.
+audio/LJ011-0290.wav|female|en| His first act was to send a messenger to stop the check and the order to Mr. Bell, his next to seek the help of the police.
+audio/LJ011-0149.wav|female|en| The abduction of Miss Turner by the brothers Wakefield bore a strong resemblance to the carrying off and forcible marrying of heiresses as already described.
+audio/LJ009-0105.wav|female|en| the sheriffs cover their faces and one of their inquisitive friends blows his nose with his glove
+audio/LJ007-0221.wav|female|en| The reports, as the years flow on, reiterate the same complaints.
+audio/LJ004-0204.wav|female|en| Masons, bricklayers, carpenters, painters had been employed upon the buildings, and the work was pronounced excellent by competent judges.
+audio/LJ003-0346.wav|female|en| It pointed out that the government was to blame for the overcrowding, and might diminish it if it chose.
+audio/LJ004-0218.wav|female|en| a week's allowance at a time, was abolished, and there was a regular scale of daily rations adopted.
+audio/LJ008-0242.wav|female|en| famous in the annals of Newgate for the hardihood they had displayed in the hour of execution when they terminated their career of crime at the gallows.
+audio/LJ009-0242.wav|female|en| and the sentence was properly and completely carried out.
+audio/LJ003-0158.wav|female|en| from whom still higher fees were exacted, with the same discreditable idea of swelling the revenues of the prison.
+audio/LJ011-0037.wav|female|en| Appeals were made to the Home Secretary, and all possible political interest brought to bear, but without success.
+audio/LJ002-0278.wav|female|en| while the funds of several bequests and charities were applied in adding to the material comfort of the prisoners.
+audio/LJ002-0235.wav|female|en| were places set apart for skittles, fives, and tennis, which strangers frequented as any other place of public amusement.
+audio/LJ008-0130.wav|female|en| before the colonel had been pinioned. He had pulled out two white handkerchiefs, one of which he bound over his temples so as nearly to conceal his eyes.
+audio/LJ008-0288.wav|female|en| The consequences were plainly proved to the inspectors.
+audio/LJ006-0169.wav|female|en| He really did not know what passed in his jail.
+audio/LJ004-0027.wav|female|en| It was subsequently amplified and the rates of salaries fixed.
+audio/LJ011-0180.wav|female|en| Wakefield added that it had been suggested he should marry Miss Turner, but that he had laughed at the idea.
+audio/LJ003-0110.wav|female|en| they viewed him with some suspicion, as one of whom they knew nothing.
+audio/LJ004-0227.wav|female|en| Mr. Brown also, much to his own credit, brought about the abandonment of the practice of ironing all prisoners as a matter of course.
+audio/LJ011-0205.wav|female|en| He carried me away by fraud and stratagem and forced me to accompany him to Gretna Green.
+audio/LJ005-0194.wav|female|en| The keeper and his officers resided at a distance from the jail and left its inmates to their own devices.
+audio/LJ010-0203.wav|female|en| were bound to provide themselves with sword, rifle, dagger, and a pair of pistols.
+audio/LJ008-0224.wav|female|en| With them were younger men and women.
+audio/LJ002-0051.wav|female|en| A high wall 15 feet in height divided the female's courtyard from the men's.
+audio/LJ005-0289.wav|female|en| In these, the Commissioners found additional proof of the evils of continuing the present Constitution of the local tribunals.
+audio/LJ004-0103.wav|female|en| Yet another act passed in 1791. If properly observed, should have ensured proper attention to them.
+audio/LJ004-0044.wav|female|en| several bishops and a number of members of the House of Commons, including Mr. Manners Sutton,
+audio/LJ003-0284.wav|female|en| that when they were not carousing, plotting, or scheming,
+audio/LJ010-0283.wav|female|en| and walking for choice through prickly gorse bushes.
+audio/LJ003-0112.wav|female|en| When any prisoner committed an offense against the community or against an individual, he was tried by a court in the jail.
+audio/LJ006-0063.wav|female|en| Minor offenders, charged with small thefts or non-payment of small sums, were cheek-by-jowl with convicts sentenced to long terms of transportation.
+audio/LJ009-0259.wav|female|en| The wretched man did not fall with it, but jumped onto the platform, and seizing the rope with his hands, tried to avoid strangulation.
+audio/LJ004-0193.wav|female|en| Prisoners on reception were treated as they are nowadays, bathed, dressed in prison clothes, and inspected by the surgeon.
+audio/LJ002-0220.wav|female|en| In consequence of these disclosures, both Bambridge and Huggin, his predecessor in the office, were committed to Newgate.
+audio/LJ008-0274.wav|female|en| The result in the latter case was left in the first place to the king in council.
+audio/LJ009-0250.wav|female|en| in such a way that the executioner found a difficulty in pinioning his hands.
+audio/LJ001-0123.wav|female|en| This is awkward if you have to read Bradshaw's Guide in a hurry.
+audio/LJ006-0265.wav|female|en| The untried might see their friends three times a week, the convicted only once.
+audio/LJ005-0215.wav|female|en| The regular daily visitation of the chaplain was also insisted upon.
+audio/LJ002-0056.wav|female|en| The wards in this part were five in number, all in dimensions 20 feet by 15, with a sixth ward 15 feet square.
+audio/LJ008-0187.wav|female|en| It was still greater at Fauntleroy's execution in 1824, when no less than 100,000 persons assembled, it was said.
+audio/LJ011-0230.wav|female|en| Mr. E.G. Wakefield took part in the scheme for the colonization of North Australia, and for some years resided in that colony.
+audio/LJ007-0008.wav|female|en| there is special care.
+audio/LJ005-0213.wav|female|en| Newgate, through all these years, continued a byword with the society.
+audio/LJ004-0159.wav|female|en| The state of the prison, the desperation of the prisoners, broadly hinted in their conversation and plainly expressed in their conduct,
+audio/LJ011-0028.wav|female|en| In his defence,
+audio/LJ002-0133.wav|female|en| Alfred the Great established the court baron, the hundred court, and the county court, which, among other matters, entertained pleas for debt.
+audio/LJ008-0246.wav|female|en| never once from that pale face passed away its benign and patient expression.
+audio/LJ003-0012.wav|female|en| and debtors might practically have as much as they liked if they could only pay for it.
+audio/LJ002-0114.wav|female|en| and imprisonment for debt has almost entirely disappeared.
+audio/LJ007-0065.wav|female|en| On the one hand, the Ladies' Association, supported and encouraged by public approval, trenched upon his peculiar province.
+audio/LJ011-0272.wav|female|en| The coach immediately drove off. Mr. G. entered the house, asked for Mr. Heath, was told he would find him in the back kitchen at breakfast.
+audio/LJ005-0048.wav|female|en| which he could bestow on prisoners on release and so save the better disposed or the completely destitute from lapsing at once into crime.
+audio/LJ003-0249.wav|female|en| were imposed in case of misconduct. And when there had been an attempt at escape,
+audio/LJ010-0240.wav|female|en| The queen was apprised of the danger and begged not to go abroad.
+audio/LJ009-0092.wav|female|en| His legs give way. He utters a faint groan and sinks on the floor.
+audio/LJ009-0199.wav|female|en| About this time, I find that the bodies of two murderers, Clench and McKay,
+audio/LJ010-0175.wav|female|en| Oxford, who had been pacing backwards and forwards with his hands under the lapels of his coat, saw the carriage approach.
+audio/LJ004-0156.wav|female|en| children hardly old enough to be released from the nursery.
+audio/LJ008-0098.wav|female|en| One was the Yeoman of the Halter, a Newgate official. The executioner's assistant, whom Mr. T.J. Smith, who was present at the execution,
+audio/LJ011-0125.wav|female|en| The other and the last criminal executed for forgery in this country was one Maynard, who was convicted of a fraud upon the Custom House.
+audio/LJ005-0124.wav|female|en| Most of the local authorities embarked into considerable expenditure, determined to rebuild their jails de novo. On the most approved pattern,
+audio/LJ008-0173.wav|female|en| In this convulsive struggle for bare existence, people fought fiercely with one another, and the weakest, of course the women, went under.
+audio/LJ002-0263.wav|female|en| the Lord Steward of the household, the steward and officers of the Marshalsea Court and others.
+audio/LJ004-0112.wav|female|en| 3. Prisoners guilty of misdemeanors. 4. Prisoners charged with misdemeanors. 5. Debtors.
+audio/LJ007-0022.wav|female|en| After locking up time, which varied, as on the male side, according to the daylight, the scenes were often riotous and disgraceful.
+audio/LJ007-0162.wav|female|en| uncontrolled conversation with visitors of the very worst description, prostitutes, thieves, receivers of stolen goods.
+audio/LJ005-0076.wav|female|en| By the preamble of the first-named act, it was declared...
+audio/LJ009-0193.wav|female|en| with the idea that ignominy would no longer attach to an operation which ceased to be compulsory for the most degraded beings
+audio/LJ004-0067.wav|female|en| or to make him sleep in close contact with the victims of contagious and loathsome disease.
+audio/LJ004-0120.wav|female|en| In 1818, out of 518 prisons in the United Kingdom,
+audio/LJ006-0215.wav|female|en| The beer-men brought in as much as he pleased. He sold it without the controlling presence of an officer.
+audio/LJ003-0024.wav|female|en| He collected the garnish money and distributed the weekly grant from the prison charitable fund.
+audio/LJ007-0125.wav|female|en| It was diverted from its proper uses and, as the place of the greatest comfort, was allotted to persons who should not have been sent to Newgate at all.
+audio/LJ004-0057.wav|female|en| For the first time, the doctrine was enunciated that prisoners had rights of their own.
+audio/LJ011-0039.wav|female|en| but in a separate chamber, that belonging to one of the warders of the jail.
+audio/LJ006-0292.wav|female|en| Male prisoners carried coal into the female prison. When they saw and could speak or pass letters to the female prisoners,
+audio/LJ006-0104.wav|female|en| but its issue was precarious and dependent on the goodwill of the wardsmen, who measured out the portions to each according to his eye,
+audio/LJ010-0268.wav|female|en| It happened that a lad named Bean had absconded from his father's home some weeks before.
+audio/LJ010-0051.wav|female|en| the well-known Cato Street conspiracy.
+audio/LJ009-0007.wav|female|en| once ordered to the cells friends of all classes suddenly rise up his fellow prisoners the turnkeys the chaplain
+audio/LJ004-0163.wav|female|en| and of which fewer still would believe that the original is to be found in this enlightened and happy country.
+audio/LJ002-0038.wav|female|en| Of these wards, three were appropriated to the cabin side, so called, because
+audio/LJ010-0029.wav|female|en| The cold-blooded, calculating atrocity born of self-interest were still the irresistible incentives to kill.
+audio/LJ001-0100.wav|female|en| and these somewhat wiry letters are suitable for the machine process, which would not do justice to letters of more generous design.
+audio/LJ007-0218.wav|female|en| Newgate is only less extensively injurious than formerly because it is less crowded.
+audio/LJ003-0271.wav|female|en| Some of the worst and most extensive burglaries were planned there.
+audio/LJ005-0096.wav|female|en| It had now a legal and authoritative standard of efficiency to apply.
+audio/LJ011-0061.wav|female|en| Let this monster give his name. I am ready to fight him. I am still determined to put myself in the place of Mr. Fauntleroy.
+audio/LJ008-0188.wav|female|en| Every window and roof which could command a view of the horrible performance was occupied.
+audio/LJ007-0227.wav|female|en| The inspectors were not to be deterred, however, by any opposition from the earnest discharge of their functions, and continued to report against Newgate.
+audio/LJ008-0129.wav|female|en| He soon arrived at the room where the sheriff was to give a receipt for his body, according to the usual custom.
+audio/LJ004-0249.wav|female|en| As the Prison Discipline Society pertinently observed in a report dated 1820,
+audio/LJ006-0070.wav|female|en| where they inevitably meet with further contamination from the society of the most abandoned and incorrigible inmates of the jail.
+audio/LJ003-0192.wav|female|en| Hence, there was a terrible accumulation of prisoners in the condemned cells.
+audio/LJ008-0165.wav|female|en| Here, a couple of piemen had been selling their wares. The basket of one of them, which was raised upon a four-legged stool, was upset.
+audio/LJ008-0093.wav|female|en| At the execution of Governor Wall in 1802, the furious hatred of the mob was plainly apparent in their appalling cries.
+audio/LJ011-0280.wav|female|en| Mr. G. at first stoutly refused.
+audio/LJ010-0225.wav|female|en| the whole of the evidence pointed so strongly towards insanity that the jury brought in a verdict of acquittal on that ground
+audio/LJ003-0289.wav|female|en| Upon the 29th of July the same year,
+audio/LJ005-0095.wav|female|en| The promulgation of these two jail acts strengthened the hands of the prison discipline society enormously.
+audio/LJ009-0065.wav|female|en| And the old clerk lifts up his cracked voice, saying, Let us sing to the praise and glory of God.
+audio/LJ003-0307.wav|female|en| But as yet, no suggestion was made to provide prison uniform.
+audio/LJ002-0332.wav|female|en| Sometimes, rugs were urgently required and not forthcoming.
+audio/LJ003-0058.wav|female|en| but all mingled freely during the day in the yard.
+audio/LJ001-0142.wav|female|en| Modern printers generally overdo the whites in the spacing, a defect probably forced on them by the characterless quality of the letters.
+audio/LJ011-0240.wav|female|en| No more curious instance of this ever occurred than the assault made by one Howard upon a Mr. Millay with intent to rob him.
+audio/LJ003-0273.wav|female|en| I believe, says Mr. Bennett in the letter already largely quoted,
+audio/LJ001-0097.wav|female|en| a little reduced in ugliness. The design of the letters of this modern old style leaves a good deal to be desired.
+audio/LJ012-0009.wav|female|en| It turned out that he was really married to Mrs. Canning.
+audio/LJ006-0040.wav|female|en| The fact was that the years as they passed, nearly twenty in all, had worked but little permanent improvement in this detestable prison.
+audio/LJ010-0257.wav|female|en| A third miscreant made a similar but far less serious attempt in the month of July following.
+audio/LJ009-0087.wav|female|en| It is enough to say that in the same solemn tone, he talks about the minutest of crimes, punishments, bonds, shame.
+audio/LJ004-0005.wav|female|en| The pleadings, however eloquent, of a single individual were unable to more than partially remedy the widespread and colossal evils of British prisons.
+audio/LJ010-0030.wav|female|en| The brutal ferocity of the wild beast once aroused, the same means, the same weapons were employed to do the dreadful deed.
+audio/LJ006-0089.wav|female|en| to be pitchforked by chance anywhere into any sort of company.
+audio/LJ006-0218.wav|female|en| Wrestling, in which legs were occasionally broken, was freely indulged in. Also, such low games as kabom.
+audio/LJ011-0117.wav|female|en| devoted its efforts first to a mitigation of the forgery statute, but could not immediately accomplish much.
+audio/LJ005-0064.wav|female|en| is found nowadays to be really efficacious. The main recommendations, however, are based upon common sense.
+audio/LJ007-0030.wav|female|en| consisted of two dozen rooms and fifteen cells. In these various chambers, until just before the inspectors made their report,
+audio/LJ003-0236.wav|female|en| Garnish continued to be demanded long after it had disappeared in other and better regulated prisons.
+audio/LJ003-0034.wav|female|en| This gradually was forced upon the consciousness of the corporation.
+audio/LJ003-0251.wav|female|en| Among other excuses offered for thus manacling all, almost without exception, was that it was the best and safest method.
+audio/LJ008-0233.wav|female|en| The wide, dark sea of heads is all at once in motion.
+audio/LJ008-0314.wav|female|en| The form of imparting the intelligence was generally the same.
+audio/LJ006-0036.wav|female|en| They visited the wards after locking up time and saw with their own eyes what went on.
+audio/LJ010-0009.wav|female|en| People, too, were getting into the habit of carrying but little cash about them, and no valuables but their watches or personal jewelry.
+audio/LJ005-0244.wav|female|en| which dealt with jails of all classes as well as transportation.
+audio/LJ011-0021.wav|female|en| Further investigations brought other similar frauds to light.
+audio/LJ008-0256.wav|female|en| and with blanched cheek and sinking, we turned away from the scene.
+audio/LJ006-0190.wav|female|en| lively discourse upon past criminal exploits, elaborate discussion of others to be perpetrated after release.
+audio/LJ008-0225.wav|female|en| the former already vowed to the same criminal career, and looking up to their elders with the respect due to successful practitioners.
+audio/LJ011-0011.wav|female|en| and took the instrument out to a clerk with the ink not dry.
+audio/LJ011-0013.wav|female|en| replaced the stock in the names of the original holders, who might otherwise have been completely ruined.
+audio/LJ004-0222.wav|female|en| Meat was no longer issued raw, to be imperfectly cooked before a ward fire and bolted gluttonously, the whole two pounds at one sitting.
+audio/LJ010-0200.wav|female|en| Young England, which Oxford had evolved out of his own inflated self-conceit, and which had never any real corporeal existence.
+audio/LJ005-0045.wav|female|en| nor did it confine itself to mere verbal recommendations.
+audio/LJ006-0273.wav|female|en| enough to altogether upset what small show of decorum and discipline was still preserved in the prison.
+audio/LJ011-0226.wav|female|en| which was based on his jail experiences, and of which I have availed myself in the last chapter.
+audio/LJ009-0017.wav|female|en| For this, the chaplain was, a few days later, summoned before the jail committee of aldermen.
+audio/LJ004-0220.wav|female|en| For breakfast, a pint of gruel. For dinner, half a pound of boiled meat. Or a quart of soup with vegetables on alternate days.
+audio/LJ011-0192.wav|female|en| The fact of the abduction did not transpire for some days.

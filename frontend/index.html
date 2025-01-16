@@ -68,20 +68,20 @@
         <div class="audio-controls">
             <label for="gender">Gender:</label>
             <select id="gender">
-                <option value="male">Male</option>
                 <option value="female">Female</option>
+                <option value="male">Male</option>
             </select>
 
             <label for="language">Language Accent:</label>
             <select id="language">
+                <option value="en">EN</option>
                 <option value="vi-c">VI-C</option>
                 <option value="vi-n">VI-N</option>
                 <option value="vi-s">VI-S</option>
-                <option value="en">EN</option>
             </select>
 
-            <label for="transcribe">Transcription:</label>
-            <input type="text" id="transcribe" placeholder="Type the transcription here">
+            <label for="transcript">Transcription:</label>
+            <input type="text" id="transcript" placeholder="Type the transcription here">
 
             <button id="next-button">Next</button>
         </div>
@@ -96,7 +96,7 @@
         const audioElement = document.getElementById("audio");
         const genderSelect = document.getElementById("gender");
         const languageSelect = document.getElementById("language");
-        const transcribeInput = document.getElementById("transcribe");
+        const transcriptInput = document.getElementById("transcript");
         const nextButton = document.getElementById("next-button");
         let audioFiles = [];
         let currentIndex = 0;
@@ -124,8 +124,8 @@
         }
 
 
-        async function updateTranscribe() {
-            if (!transcribeInput.value.trim()) {
+        async function updatetranscript() {
+            if (!transcriptInput.value.trim()) {
                 alert("Please enter a transcription before proceeding.");
                 return;
             }
@@ -134,11 +134,11 @@
                 gender: genderSelect.value,
                 language_accent: languageSelect.value,
                 audio_path: audioFiles[currentIndex],
-                transcribe: transcribeInput.value,
+                transcript: transcriptInput.value,
             };
 
             try {
-                await fetch(`${apiBase}/update_transcribe/${encodeURIComponent(audioFiles[currentIndex])}`, {
+                await fetch(`${apiBase}/update_transcript/${encodeURIComponent(audioFiles[currentIndex])}`, {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json",
@@ -147,7 +147,7 @@
                 });
 
                 currentIndex++;
-                transcribeInput.value = "";
+                transcriptInput.value = "";
                 loadAudio();
 
                 if (currentIndex === audioFiles.length) {
@@ -171,7 +171,7 @@
             document.getElementById("app").innerHTML = "<h2>Task Completed!</h2><p>All audio files have been processed.</p>";
         }
 
-        nextButton.addEventListener("click", updateTranscribe);
+        nextButton.addEventListener("click", updatetranscript);
 
         // Initialize the app
         if (localStorage.getItem("audioFiles")) {
